@@ -2,8 +2,8 @@ from aliyunsdkcore.client import AcsClient
 from aliyunsdkcore.request import CommonRequest
 import json
 
-accessKeyId = 'LTAI4GDfxSundQCT6NpjX2ba'
-accessSecret = 'XwU340t3EM37y2e0xj07uBgWmmJIGm'
+accessKeyId = '********'
+accessSecret = '******'
 regionid = 'cn-hangzhou'
 SignName = '强仔浅谈'
 TemplateCode = 'SMS_193508720'
